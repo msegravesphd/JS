@@ -18,3 +18,4 @@ A starter program for writing JavaScript games.
 
 I'm learning JavaScript, React, Vue, Svelte, and Node
 from JavaScript All-In-One For Dummies by Chris Minnick
+This is a test of the modified, staged, committed process.
